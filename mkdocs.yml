@@ -1,0 +1,4 @@
+site_name: Linux
+site_url: https://linux.rafaeldutra.me
+theme:
+  name: material
