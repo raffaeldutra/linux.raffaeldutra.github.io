@@ -5,3 +5,4 @@ theme:
   features:
     - navigation.sections
     - navigation.expand
+    - navigation.footer
