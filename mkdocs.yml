@@ -2,6 +2,8 @@ site_name: Linux
 site_url: https://linux.rafaeldutra.me
 theme:
   name: material
+  logo: assets/tux-icon.png
+  favicon: assets/tux-icon.png
   features:
     - navigation.sections
     - navigation.expand
