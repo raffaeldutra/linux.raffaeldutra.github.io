@@ -10,6 +10,14 @@ Torna possível navegar pelos arquivos e pelos diretórios.
 cd diretorio
 ```
 
+Caso o `diretorio` exista, não será apresentado um resultado de saída.
+
+Caso o `diretorio` não exista, será apresentado o seguinte resultado:
+
+```
+cd: diretorio: No such file or directory
+```
+
 ## Ir para meu diretório home
 
 ```
