@@ -8,3 +8,6 @@ theme:
     - navigation.sections
     - navigation.expand
     - navigation.footer
+    - content.code.annotate
+    - content.code.copy
+    - content.code.select
