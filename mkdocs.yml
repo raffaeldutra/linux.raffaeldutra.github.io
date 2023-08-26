@@ -1,5 +1,7 @@
 site_name: Linux
 site_url: https://linux.rafaeldutra.me
+repo_url: https://github.com/raffaeldutra/linux.raffaeldutra.github.io
+repo_name: linux.raffaeldutra.github.io
 theme:
   name: material
   logo: assets/tux-icon.png
