@@ -6,7 +6,7 @@ Normalmente é utilizado acompanhado do comando `sudo`.
 
 ## Sintaxe básica
 
-Por exemplo, para criar um usuário fulano:
+Por exemplo, para criar um usuário aluno:
 
 ```
 sudo adduser aluno
