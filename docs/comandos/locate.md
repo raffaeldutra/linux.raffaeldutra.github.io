@@ -2,6 +2,12 @@
 
 O comando __`locate`__ é utilizado para localizar arquivo.
 
+## Sintaxe Básica
+
+```
+locate nomedoarquivo.txt
+```
+
 ## Se sei o nome do arquivo
 
 Se souber o nome do arquivo a localizar, basta digitar __`locate`__ e o nome do arquivo seguido de sua extensão.
