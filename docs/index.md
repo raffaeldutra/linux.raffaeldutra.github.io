@@ -12,11 +12,3 @@ Linux é um sistema operacional criado em 1991 por Linux Torvalds, com base no U
 * está em diversos dispositivos;
 
 Dominar a utilização do Linux é um diferencial na área de tecnologia.
-
-## Início da criação
-
-Este documento foi criado em 20 de agosto de 2023.
-
-## Recurso de criação
-
-Este documento foi criado em Markdown.
