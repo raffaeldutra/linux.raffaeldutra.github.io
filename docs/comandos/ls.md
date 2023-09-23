@@ -2,6 +2,14 @@
 
 O comando __`ls`__ mostra o conteudo do diretório solicitado.
 
+## Sintaxe Básica
+
+Por exemplo, para listar o conteúdo de um diretório chamado repositorio:
+
+```
+ls repositorio
+```
+
 ## Listar conteúdo do diretório atual
 
 ```
