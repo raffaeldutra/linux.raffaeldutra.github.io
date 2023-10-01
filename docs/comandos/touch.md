@@ -7,5 +7,5 @@ Basta digitar __`touch`__ e em seguida o caminho do diretório no qual quero cri
 ## Sintaxe Básica
 
 ```
-touch /home/usarname/Documents/arquivo.html
+touch /home/usarname/documents/arquivo.html
 ```

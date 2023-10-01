@@ -5,7 +5,7 @@ O comando __`cp`__ por padrão, é usado para copiar arquivo. Mas, com o uso de 
 ## Sintaxe Básica
 
 ```
-cp arquivo.txt /home/username/Documents
+cp arquivo.txt /home/username/documents
 ```
 
 O parâmetro `-v` logo após o `cp` permite reproduzir em tela um resultado, tal como abaixo:

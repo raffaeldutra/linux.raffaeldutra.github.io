@@ -39,7 +39,7 @@ cd /
 ## Digitando caminho completo
 
 ```
-cd /Documents/Projects
+cd /documents/Projects
 ```
 
 ## Origem da Sigla
