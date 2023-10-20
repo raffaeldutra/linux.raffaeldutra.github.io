@@ -2,7 +2,7 @@
 
 O comando __`grep`__ é utilizado para encontrar uma palavra em um arquivo.
 
-Digite o __`grep`__ seguido do nome da palavra a encontrar e o nome do arquivo seguido de sua extensão
+Digite o __`grep`__ seguido do nome da palavra a encontrar e o nome do arquivo.
 
 ## Sintaxe Básica
 

@@ -10,7 +10,7 @@ locate nomedoarquivo.txt
 
 ## Se sei o nome do arquivo
 
-Se souber o nome do arquivo a localizar, basta digitar __`locate`__ e o nome do arquivo seguido de sua extensão.
+Se souber o nome do arquivo a localizar, basta digitar __`locate`__ e o nome do arquivo.
 
 ```
 locate arquivo.txt
