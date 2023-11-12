@@ -42,10 +42,6 @@ cd /
 cd /documents/Projects
 ```
 
-## Origem da Sigla
-
-__`cd`__ significa __change directory__, daí a razão da nomenclatura
-
 ## Voltar diretório
 
 Para cada diretório que eu quiser voltar eu acrescento `../`
