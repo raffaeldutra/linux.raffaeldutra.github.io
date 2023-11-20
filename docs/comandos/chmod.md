@@ -17,3 +17,9 @@ No exemplo abaixo, cada número da sequência numérica entre o chmod e o nome d
 ```
 chmod 777 arquivo.txt
 ```
+
+com o seguinte resultado:
+
+```
+-rwxrwxrwx 1 fernanda root    arquivo.txt
+```
