@@ -29,7 +29,18 @@ __`cp -r`__ caminho/de/origem caminho/de/destino
 ### Exemplo
 
 ```
-cp -r /home/username/documents /home/username/documents_backup
+cp -r /home/username/documents /home/username2/documents_backup
+```
+
+Para reproduzir em tela esse resultado, é preciso adicionar ao `_cp_` o parâmetro `_-rv_`
+
+```
+cp -rv /home/username/documents /home/username2/documents_backup
+```
+com o seguinte resultado:
+
+```
+'/home/username/documents' -> '/home/username2/documents_backup/documents'
 ```
 
 ## Copiar arquivo/diretório
@@ -41,5 +52,17 @@ __`cp -a`__ caminho/de/origem caminho/de/destino
 ### Exemplo
 
 ```
-cp -a /home/username/documents /home/username/documents_backup
+cp -a /home/username/documents /home/username2/documents_backup
+```
+
+Para reproduzir em tela esse resultado, é preciso adicionar ao `_cp_` o parâmetro `_-av_`
+
+```
+cp -av /home/username/documents /home/username2/documents_backup
+```
+
+com o seguinte resultado:
+
+```
+'/home/username/documents' -> '/home/username2/documents_backup/documents'
 ```
